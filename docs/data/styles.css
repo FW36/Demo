@@ -7,8 +7,6 @@
   text-align:center;
   line-height:normal;
 }
-._图片 {
-}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -53,6 +51,19 @@
 ._文本段落 {
   text-align:left;
 }
+.line {
+}
+._流程形状 {
+}
+._连接线 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#000000;
+  text-align:center;
+  line-height:normal;
+}
 ._表格 {
   font-family:'Helvetica Regular', 'Helvetica';
   font-weight:400;
@@ -63,11 +74,44 @@
   font-weight:400;
   font-style:normal;
 }
-.box_1 {
-}
 .flow_shape {
 }
 .connector {
 }
+.box_1 {
+}
+.ellipse {
+}
 .box_2 {
+}
+.image {
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.marker {
+  color:#FFFFFF;
+}
+.button {
+}
+.box_3 {
+}
+.radio_button {
+  text-align:left;
+}
+.table_cell {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.placeholder {
 }
