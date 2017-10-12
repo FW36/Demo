@@ -731,6 +731,14 @@
   width:248px;
   word-wrap:break-word;
 }
+#u686_ann {
+  border-width:0px;
+  position:absolute;
+  left:682px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
 #u688_img {
   border-width:0px;
   position:absolute;
@@ -812,6 +820,14 @@
   top:11px;
   width:170px;
   word-wrap:break-word;
+}
+#u692_ann {
+  border-width:0px;
+  position:absolute;
+  left:160px;
+  top:34px;
+  width:1px;
+  height:1px;
 }
 #u694_img {
   border-width:0px;
